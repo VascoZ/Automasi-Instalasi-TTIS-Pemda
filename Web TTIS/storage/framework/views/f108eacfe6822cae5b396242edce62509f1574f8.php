@@ -1,0 +1,1 @@
+<h2>Not Allowed</h2><?php /**PATH G:\PHP\template-csirt\resources\views/errors/403.blade.php ENDPATH**/ ?>
